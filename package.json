@@ -1,0 +1,23 @@
+{
+  "name": "vue-sandbox",
+  "version": "1.0.0",
+  "description": "This is a sandbox for vue.js.",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "2.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FumiyaShibusawa/vue-sandbox.git"
+  },
+  "author": "Fumiya Shibusawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FumiyaShibusawa/vue-sandbox/issues"
+  },
+  "homepage": "https://github.com/FumiyaShibusawa/vue-sandbox#readme"
+}
